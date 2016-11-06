@@ -1,1 +1,2 @@
-writeln("goodbye")
+writeln("goodbye all")
+print("goodbye")
