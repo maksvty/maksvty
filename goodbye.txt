@@ -1,3 +1,4 @@
-writeln("goodbye all")
-print("goodbye")
+writeln("goodbye all;")
+print("goodbye;")
 print("goodbye, my friend;")
+print("goodbey, my girls;")
